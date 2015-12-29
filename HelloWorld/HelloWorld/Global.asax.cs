@@ -14,7 +14,6 @@ namespace HelloWorld
         {
             //This is my first github program.   
             //newBranch1
-            //newBranch1 push to branch master
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

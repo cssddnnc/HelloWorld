@@ -18,9 +18,6 @@ namespace HelloWorld
         Master change 2.
 
         Master change 3.
-<<<<<<< HEAD
-=======
         Master change 4.
->>>>>>> master
     }
 }

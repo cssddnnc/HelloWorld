@@ -6,6 +6,7 @@ namespace HelloWorld
 {
     public partial class Startup
     {
+        Private branch change.
         public void Configuration(IAppBuilder app)
         {
 		Master change.

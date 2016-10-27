@@ -11,6 +11,7 @@ namespace HelloWorld
             ConfigureAuth(app);
             A
             B
+            C
             D
             E
             F

@@ -1,4 +1,4 @@
-﻿using Microsoft.Owin;
+using Microsoft.Owin;
 using Owin;
 
 [assembly: OwinStartupAttribute(typeof(HelloWorld.Startup))]
@@ -8,6 +8,8 @@ namespace HelloWorld
     {
         public void Configuration(IAppBuilder app)
         {
+		Master change.
+
             ConfigureAuth(app);
         }
     }

@@ -1,4 +1,4 @@
-﻿using Microsoft.Owin;
+using Microsoft.Owin;
 using Owin;
 
 [assembly: OwinStartupAttribute(typeof(HelloWorld.Startup))]
@@ -9,6 +9,8 @@ namespace HelloWorld
         Private branch change.
         public void Configuration(IAppBuilder app)
         {
+		Master change.
+
             ConfigureAuth(app);
         }
     }

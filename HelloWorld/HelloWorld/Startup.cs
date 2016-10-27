@@ -13,5 +13,7 @@ namespace HelloWorld
 
             ConfigureAuth(app);
         }
+
+        Master change 1.
     }
 }
